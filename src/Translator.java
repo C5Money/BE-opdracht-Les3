@@ -16,4 +16,5 @@ public class Translator {
     public String translate(Integer number){
         return numericAlpha.get(number);
     }
+
 }
